@@ -1,0 +1,25 @@
+Repository --- It is like a project consists of different folders,files,images...
+
+
+Git ---- It is a version control  system
+
+
+
+
+GitHub ------- It is a remote repository hosting service.There are many services like github.
+               but github  is famous due to free,it can store huge number of repositories.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
